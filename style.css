@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+.altura-a-b {
+    padding: 100px 0;
+}
+
+.logotipo{
+    width: 100px;
+    padding: 10px 0px;
+}
+
+.icono-redes-header{
+    width: 30px;
+    margin: 10px 5px;
+}
+
+.footer {
+    background-color: #0f0e0e;
+    padding: 100px 0;
+    align-content: center;
+}
+
+footer p {
+    color: black;
+    font-size: 12px;
+}
